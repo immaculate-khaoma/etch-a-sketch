@@ -9,7 +9,8 @@ This project allows users to draw by simply hovering over a dynamic grid of squa
 
 -Random RGB Colors: Each square gets a unique RGB color.  
 
--Progressive Darkening: Squares start faint and get darker with every hover (up to 10 times).
+-Progressive Darkening: Squares start faint and get darker with every hover (up to 10 times).  
+
 -Reset Grid: Clear the board and start fresh with one click.
 
 ## Technologies Used
